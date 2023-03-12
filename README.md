@@ -1,3 +1,5 @@
 # crack_the_coding_interview_solution_Python
 
-here is my crack the coding interview solution! Check it out! 
+Here is my crack the coding interview solution! Check it out! 
+
+Feel free to open an issue to request that your solution :) 
